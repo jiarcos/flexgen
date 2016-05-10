@@ -68,14 +68,13 @@ h1 {
 	text-shadow: 2px 0 2px rgba(0,0,0,0.3);
 	font-size: 45px;
 }
-#intro, #interactive {
+#intro {
 	height: 100vh;
 	color: white;
-}
-#intro {
 	background: teal;
 }
 #interactive {
+	color: white;
 	background: cornflowerblue;
 }
 .contenedor {
